@@ -1,11 +1,4 @@
-Below is a **GitHub-ready, clean, and professional `README.md`** version of your content.
-It keeps your legal accuracy intact, improves structure, adds a table of contents, and follows common open-source documentation conventions.
 
-You can **copy-paste this directly** into `README.md`.
-
----
-
-```md
 # 🏡 SVAMITVA Property & OCI Card Holders  
 ### Legal Status, Ownership Rights, and Registration Clarity (Haryana Focus)
 
@@ -187,19 +180,4 @@ OCI card holders may:
 
 The SVAMITVA scheme has successfully integrated rural residential properties into the **formal legal, financial, and credit ecosystem**, benefiting residents, NRIs, and OCI holders alike.
 
----
 
-### 📌 Disclaimer
-This document is for **informational purposes only** and does not constitute legal advice. For transaction-specific guidance, consult a qualified legal professional or local registering authority.
-```
-
----
-
-If you want, I can also:
-
-* Add **legal citations / FEMA clauses**
-* Convert this into a **GitHub Pages site**
-* Add **FAQ or flowcharts**
-* Localize it for **other states** (UP, Rajasthan, MP, Punjab)
-
-Just tell me 👍
